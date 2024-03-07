@@ -5,7 +5,7 @@
 
 For the most up-to-date version of the plugin, download the source the [plugin repository](https://github.com/func-godot/func_godot_plugin).
 
-Full documentation is available both online and off. [Download the manual here](https://github.com/func-godot/func_godot_docs/releases/).
+[Full documentation is available online](func-godot.github.io/func_godot_docs) as well as off. [Download a standalone copy of the manual here](https://github.com/func-godot/func_godot_docs/releases/).
 
 For more help or to contribute to the community, join us on the [Official FuncGodot Discord](https://discord.gg/eBQ7EfNZSZ)!
 
